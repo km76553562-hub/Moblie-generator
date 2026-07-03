@@ -1,0 +1,6 @@
+{
+  "name": "모바일 배경화면 생성기",
+  "description": "사용자가 원하는 분위기의 키워드를 입력하면, AI가 휴대폰 비율(9:16)에 맞는 아름다운 고화질 배경화면 4가지를 생성해주는 모바일 전용 웹 앱입니다. 전체 화면 보기, 다운로드, 리믹스 기능을 제공합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
